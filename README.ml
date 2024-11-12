@@ -1,0 +1,3 @@
+Una aplicación móvil desarrollada en React Native con Expo que permite gestionar tareas conectándose a una API creada con Node.js y Express. La app incluye funcionalidades para crear, editar, eliminar y listar tareas, además de capturar la ubicación del usuario y escanear códigos de barras/QR.
+
+Se implementaron cuatro pantallas: lista de tareas, detalles de tarea, añadir/editar tarea, y un escáner. La API cuenta con endpoints CRUD y utiliza un arreglo en memoria para almacenar las tareas. El proyecto está diseñado para facilitar la gestión de tareas desde cualquier dispositivo móvil.
